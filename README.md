@@ -32,3 +32,11 @@ I'm continuously improving my programming skills, building real-world projects, 
 
 - 🌸 **Perfume Website**  
   A responsive website built with HTML and CSS.
+  ## 🎯 2026 Goals
+
+- Learn Python fundamentals
+- Improve JavaScript skills
+- Build more real-world projects
+- Strengthen problem-solving skills
+- Maintain a strong CGPA
+- Keep improving my GitHub portfolio
