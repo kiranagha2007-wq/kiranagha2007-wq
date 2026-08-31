@@ -22,23 +22,24 @@ My goal is to become a skilled Software Engineer and build useful, real-world so
 - Git
 - GitHub
 
-- ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- 🎮 **Tic-Tac-Toe**  
-  A browser-based game built with HTML, CSS, and JavaScript.
+1. 🎮 **Tic-Tac-Toe**
+   A browser-based game built with HTML, CSS, and JavaScript.
 
-- 🎨 **Mood Changer Card**  
-  A small interactive project focused on DOM manipulation and events.
+2. 🎨 **Mood Changer Card**
+   A small interactive project focused on DOM manipulation and events.
 
-- 🌙 **Dark Mode**  
-  A simple dark/light mode project built with JavaScript.
+3. 🌙 **Dark Mode**
+   A simple dark/light mode project built with JavaScript.
 
-- ❤️ **Like Button**  
-  A beginner JavaScript project for practicing click events and DOM updates.
+4. ❤️ **Like Button**
+   A beginner JavaScript project for practicing click events and DOM updates.
 
-- 🌸 **Perfume Website**  
-  A responsive website built with HTML and CSS.
-  ## 🎯 2026 Goals
+5. 🌸 **Perfume Website**
+   A responsive website built with HTML and CSS.
+
+## 🎯 2026 Goals
 
 - Learn Python fundamentals
 - Improve JavaScript skills
