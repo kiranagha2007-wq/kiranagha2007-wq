@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kiran Agha!
 
-💻 Aspiring Software Engineer  
-🌱 Currently learning JavaScript  
-🚀 Building projects and improving my skills
+ BSCS Student 💻 
+| Learning JavaScript 
+| Building Projects 🚀
 
 
 ## 💻 About Me
