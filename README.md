@@ -3,7 +3,7 @@
 💻 Aspiring Software Engineer  
 🌱 Currently learning JavaScript  
 🚀 Building projects and improving my skills
-## 💻 About Me
+
 
 ## 💻 About Me
 
