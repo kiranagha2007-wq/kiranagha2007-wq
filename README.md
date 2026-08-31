@@ -13,12 +13,7 @@ I'm continuously improving my programming skills, building real-world projects, 
 - CSS
 - JavaScript
 - Git & GitHub
-## 🚀 Featured Projects
-- 🎮 Tic-Tac-Toe
-- 🎨 Mood Changer Card
-- 🌙 Dark Mode
-- ❤️ Like Button
-- 🌸 Perfume Website
+
 - ## 🚀 Featured Projects
 
 - 🎮 **Tic-Tac-Toe**  
