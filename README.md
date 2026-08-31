@@ -5,9 +5,15 @@
 🚀 Building projects and improving my skills
 ## 💻 About Me
 
-I'm a Computer Science student passionate about technology and software development.  
-My goal is to become a skilled Software Engineer and build useful solutions that can help people and businesses.  
-I'm continuously improving my programming skills, building real-world projects, and working towards becoming someone great companies can trust and hire
+## 💻 About Me
+
+I'm a Computer Science student passionate about technology and software development.
+
+I enjoy learning new technologies, building projects, and improving my problem-solving skills.
+
+Currently, I'm focusing on JavaScript and building projects to strengthen my programming fundamentals.
+
+My goal is to become a skilled Software Engineer and build useful, real-world solutions.
 ## 🛠️ Skills & Technologies
 
 - HTML5
