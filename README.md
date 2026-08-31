@@ -9,10 +9,13 @@ I'm a Computer Science student passionate about technology and software developm
 My goal is to become a skilled Software Engineer and build useful solutions that can help people and businesses.  
 I'm continuously improving my programming skills, building real-world projects, and working towards becoming someone great companies can trust and hire
 ## 🛠️ Skills & Technologies.
-- HTML
-- CSS
+## 🛠️ Skills & Technologies
+
+- HTML5
+- CSS3
 - JavaScript
-- Git & GitHub
+- Git
+- GitHub
 
 - ## 🚀 Featured Projects
 
